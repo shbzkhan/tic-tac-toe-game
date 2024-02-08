@@ -6,6 +6,7 @@
 body {
   background-color: #000f11;
   text-align: center;
+  overflow: hidden;
 
 }
 h1{
@@ -103,7 +104,7 @@ h1{
   display: none;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:442px) {
   .game{
     height: 72vmin;
   width: 72vmin;
